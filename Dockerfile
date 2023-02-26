@@ -22,6 +22,6 @@ RUN yarn
 
 COPY . .
 
-RUN npm run build
+RUN npm run-script build
 
-CMD [ "npm", "start" ]
+CMD [ "npm", "run-script", "serve" ]

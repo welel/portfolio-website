@@ -5,7 +5,7 @@ module.exports = {
     title: 'Pavel Loginov',
     description:
       'Pavel Loginov is a backend developer who specializes in building (and occasionally designing) web serivces with Django.',
-    siteUrl: 'http://localhost:8000/', // No trailing slash allowed!
+    siteUrl: 'https://loginovpavel.ru', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@welelelelel',
   },
